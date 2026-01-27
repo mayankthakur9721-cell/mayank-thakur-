@@ -1,3 +1,4 @@
 # mayank-thakur-
-This is my first  git repository 
-Author Mayank singh 
+This is my first  git repository.
+<br>
+Author- Mayank singh 
